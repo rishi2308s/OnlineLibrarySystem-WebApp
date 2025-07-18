@@ -20,7 +20,7 @@ A responsive web application for managing and browsing a collection of books, bu
 - **React Router DOM** for client-side routing
 - **UUID** for unique book IDs
 
-## 📂 Project Structure (Simplified)
+## Project Structure (Simplified)
 
 📁 src
 ├── 📁 components // Reusable components (Navbar, BookCard, etc.)
