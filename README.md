@@ -2,7 +2,7 @@
 
 A responsive web application for managing and browsing a collection of books, built using React, Redux, and Tailwind CSS. Users can view books by category, search by title/author, view detailed information, and add new books dynamically with state management.
 
-## 🚀 Features
+## Features
 
 - **Home Page** with welcome message and popular books (rating > 3.9)
 - **Browse Books** by category with search and filters
@@ -12,7 +12,7 @@ A responsive web application for managing and browsing a collection of books, bu
 - **Dynamic Routing** for categories and individual books
 - Support for book cover image uploads
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React** (with Vite)
 - **Redux** for global state
@@ -32,7 +32,7 @@ A responsive web application for managing and browsing a collection of books, bu
 
 ## Setup Instructions
 
-> This project uses **Vite** for fast development and **Tailwind CSS CDN** for styling.
+This project uses **Vite** for fast development and **Tailwind CSS CDN** for styling.
 
 1. **Clone the repository**
 
