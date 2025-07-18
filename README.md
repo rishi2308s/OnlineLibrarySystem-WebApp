@@ -22,12 +22,12 @@ A responsive web application for managing and browsing a collection of books, bu
 
 ## Project Structure (Simplified)
 
-📁 src
-├── 📁 components // Reusable components (Navbar, BookCard, etc.)
-├── 📁 pages // Main pages: Home, Browse, Add, BookDetails
-├── 📁 redux // Redux store & slices
-├── App.jsx // Main app with routing
-└── main.jsx // Entry point
+    📁 src
+    ├── 📁 components       # Reusable components 
+    ├── 📁 pages            # Main pages: Home, Browse, Add, BookDetails
+    ├── 📁 redux            # Redux store and slices
+    ├── App.jsx            # Main app with routing
+    └── main.jsx           # Entry point
 
 
 ## Setup Instructions
